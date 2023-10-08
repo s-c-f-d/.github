@@ -7,4 +7,4 @@
 
 |repos (项目)|describe（描述）|
 |:-|:-|
-|[[aws_mg](https://github.com/s-c-f-d/aws_mg)|golang日常开发工具库|
+|[aws_mg](https://github.com/s-c-f-d/aws_mg)|golang日常开发工具库|
